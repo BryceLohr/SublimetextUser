@@ -1,0 +1,7 @@
+[
+    {
+        "caption": ":s - Substitute",
+        "command": "show_panel",
+        "args": {"panel": "replace"}
+    }
+]
