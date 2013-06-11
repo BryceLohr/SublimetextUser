@@ -1,0 +1,9 @@
+{
+    // SublimeCodeIntel: Add Site Packages and Django projects to extra paths
+    "Python": {
+        "pythonExtraPaths": [
+            "C:/lang/Python27/Lib/site-packages",
+            "C:/Users/blohr/workspace/EDIArchiveSearch"
+        ]
+    }
+}

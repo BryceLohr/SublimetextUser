@@ -1,9 +1,9 @@
 {
-	"draw_white_space": "selected",
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"default_encodeing": "UTF-8",
+	"draw_white_space": "selected",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[

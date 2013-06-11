@@ -5,5 +5,7 @@
         "motion_args": {"repeat": 1, "extend": true},
         "motion_inclusive": true },
         "context": [{"key": "setting.command_mode"}]
-    }
+    },
+    // SublimeCodeIntel: Using the Vim binding for Jump to Tag
+    { "keys": ["ctrl+]"], "command": "goto_python_definition" }
 ]
